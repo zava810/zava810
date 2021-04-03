@@ -1,0 +1,34 @@
+1. to change mint system font : settings ->
+========
+chrome://settings/fonts
+Standard font and size. Default: (Times New Roman) on Windows.
+Serif font. Default (Times New Roman) on Windows.
+Sans-serif font. Default (Arial) on Windows.
+Fixed-width font. Default (Consolas) on Windows.
+Minimum font size. Default Tiny on Windows.
+=========
+1. lower-resolution displays, sans-serifs tend to display better
+2. higher-resolution displays can better handle the fine details of serifs
+3. I predict we’ll see serif typefaces used more on the web in the coming years.
+=========
+linuks font places :
+1. ~/.local/share/fonts
+2. /usr/share/fonts/truetype/
+=================
+
+=================
+Method 1 gksu nautilus
+* create /usr/share/fonts/truetype/
+* copy font files to new location.
+* sudo fc-cache -fv
+Method 2
+sudo ln -s /path/to/fontfiles /usr/share/fonts/fontfiles
+sudo fc-cache -fv
+Per-user Installation
+mkdir .fonts
+* copy font files to the new location
+fc-cache -fv
+========
+Installing Microsoft Fonts
+sudo apt-get install ttf-mscorefonts-installer
+========
