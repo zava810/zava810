@@ -4,7 +4,9 @@
 
 #### ph : +91-0129-4105-199 ( heksadesiml nmbr )
 
-#### [zinglishzava810](https://www.linkedin.com/in/zinglish/) [vk.com/etphor](vk.com/etphor)
+## [zinglishzava810](https://www.linkedin.com/in/zinglish/) 
+
+#### [vk.com/etphor](vk.com/etphor)
 
 #### [plurk.com/vnti10vnso100](plurk.com/vnti10vnso100)
 
