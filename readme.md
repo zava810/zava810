@@ -4,9 +4,12 @@
 
 #### ph : +91-0129-4105-199 ( heksadesiml nmbr )
 
-#### [vk.com/etphor]
+## [zinglishzava810](https://www.linkedin.com/in/zinglish/) 
 
-#### [plurk.com/vnti10vnso100]
+#### [vk.com/etphor](vk.com/etphor)
+
+#### [plurk.com/vnti10vnso100](plurk.com/vnti10vnso100)
+
 
 ##### subjects :
 1. maths ( 4_fourTh - q_kvAlvTh ) , zemistry ( 9_nineTh - q_kvAlvTh )
