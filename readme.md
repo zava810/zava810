@@ -1,10 +1,7 @@
-# zava810 online school
-
-#### p8 5A srs royal hills , faridabad
-
-#### ph : +91-0129-4105-199 ( heksadesiml nmbr )
-
-## [zinglishzava810](https://www.linkedin.com/in/zinglish/) 
+## [zαwα4s](https://github.com/zawa4s) for zαwα and zαwαskript based on [4finger_maтhs](https://facebook.com/4fgrm)
+trαnsition from acsii5 -> Hscii5 -> Hscii4
+1. Hscii5 : Heks standard code for information interchange 5finger_maтhs (based on 5finger_maтhs : 5+5=10)
+2. Hscii4 : Heks standard code for information interchange 4finger_maтhs (based on 4finger_maтhs : 4*4=10=8+8=wnti=ekti=solɦ)
 
 #### [vk.com/etphor](vk.com/etphor)
 
